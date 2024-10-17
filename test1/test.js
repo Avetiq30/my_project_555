@@ -1,6 +1,6 @@
 
 
-let a = 5 ** 2
+let a = 5 * 4
 console.log(a)
 
 
